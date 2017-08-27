@@ -76,7 +76,7 @@ def college_info_search(fbid,college_name):
     lst.append("https://namu.wiki/w/"+college_name+"학교"+"?from="+college_name)
     return lst
 
-ACCESS_TOKEN = "EAAQrUsMFNsQBAO23KZCUW8jqrp6iXh5lDqf76cjISfZAwWmMWFtBNwHI0qIGIplpNkhUK3IOXDaDZB8ubvuwBVevXtBZA9zTsZBcZBn4icd6WmQwZADWABY6mQmjQTCOu0aqB6G7nTwX3aK70mXegzCcWa50hOqVoKkZBXFZAnZAO1UnTiEZBYj7a8V"
+ACCESS_TOKEN = __
 
 def FB_whitelisted(url1,url2,url3,url4):
     data = {
