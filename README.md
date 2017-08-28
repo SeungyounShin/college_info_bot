@@ -3,7 +3,7 @@
 
 ## test
 
-<img width="64" height="110">![Alt text](IMG_0119.PNG)</img>
+![Alt text](IMG_0119.PNG)
 
 ## Built With
 
