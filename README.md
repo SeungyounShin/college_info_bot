@@ -1,7 +1,9 @@
 # 페이스북 입시봇
 페이스북 메신저로 서울 13개 대학 전형일정에 대해 알려주는 페이스북 챗봇 입니다.
 
-## Getting Started
+## test
+
+![Alt text](IMG_0119.PNG)
 
 ## Built With
 
