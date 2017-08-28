@@ -1,19 +1,13 @@
-# Project Title
-
-One Paragraph of project description goes here
+# 페이스북 입시봇
+페이스북 메신저로 서울 13개 대학 전형일정에 대해 알려주는 페이스북 챗봇 입니다.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Django](https://www.djangoproject.com) - The web framework used
+* [API.ai](https://api.ai) - NLP engine
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* 입시 종합 페이스북 페이지로 Scaling
